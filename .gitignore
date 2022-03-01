@@ -1,0 +1,9 @@
+/node_modules
+/logs
+
+/coverage
+/.nyc_output 
+/jscpd
+
+.env
+dev.js

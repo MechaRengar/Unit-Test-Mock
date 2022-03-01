@@ -1,0 +1,12 @@
+node_modules/**
+*/node_modules/**
+_meta
+*_meta*
+*.json
+modules/**
+doc/**
+build/**
+coverage/**
+logs/**
+jscpd/**
+

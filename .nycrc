@@ -1,0 +1,17 @@
+{
+  "all": true,
+  "extension": [".js"],
+  "check-coverage": false,
+  "reporter": ["html", "lcov", "text", "text-summary"],
+  "report-dir": "./coverage",
+  "include": [
+    "src/controllers/*.js",
+    "src/models/*.js",
+    "src/utils/*.js",
+    "src/middlewares/auth.js"
+  ],
+  "branches": 95,
+  "lines": 95,
+  "functions": 95,
+  "statements": 95
+}

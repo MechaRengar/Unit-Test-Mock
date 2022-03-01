@@ -1,0 +1,7 @@
+{
+  "threshold": 4,
+  "reporters": ["html", "console"],
+  "absolute": true,
+  "gitignore": true,
+  "output": "jscpd"
+}
